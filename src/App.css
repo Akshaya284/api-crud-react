@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif:wght@700&display=swap');
+
+
+.main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #212121;
+  color: whitesmoke;
+  flex-direction: column;
+}
+.main-header {
+  font-family: 'Noto Serif', serif;
+  /* color: whitesmoke; */
+}
+.create-form label{
+  color: whitesmoke !important;
+  font-family: 'Noto Serif', serif;
+  font-size: 12px !important;
+}
